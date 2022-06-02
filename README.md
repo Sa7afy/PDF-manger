@@ -1,4 +1,4 @@
-# PDF-manger
+# PDF-manager
 
 application to split and merge pdf files. The application will allow the user to merge two pdf 
 files together and create a third file or extract individual pages from a pdf file.
